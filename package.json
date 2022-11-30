@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
+

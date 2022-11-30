@@ -1,0 +1,30 @@
+#a{
+    display: flex;
+    flex-direction: column;
+
+
+  }
+#b{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-evenly;
+}
+.searchBtn{
+    display: flex;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    flex-direction: row;
+}
+
+.form-control{
+    width: 20rem;
+}
+
+#alldata{
+    margin-bottom: 2rem;
+}
+
+#tables{
+    display: flex; 
+    flex-direction: row;
+}
